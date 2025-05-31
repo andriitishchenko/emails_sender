@@ -1,3 +1,6 @@
+
+tests/
+.DS_Store
 # Xcode
 #
 # gitignore contributors: remember to update Global/Xcode.gitignore, Objective-C.gitignore & Swift.gitignore
@@ -9,6 +12,7 @@ xcuserdata/
 *.hmap
 
 ## App packaging
+*.zip
 *.ipa
 *.dSYM.zip
 *.dSYM
