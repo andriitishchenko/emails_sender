@@ -1,4 +1,7 @@
 
+<img width="793" alt="Screenshot 2025-05-31 at 3 54 23 AM" src="https://github.com/user-attachments/assets/6d0eb3cb-0ce6-48db-baaf-4b6e6f01a962" />
+
+
 # EmailSenderApp
 
 EmailSenderApp is a macOS application for sending bulk personalized email messages with support for templates and CSV recipient files.
